@@ -1,1 +1,2 @@
-new 1000 lines of the code
+new 1000 lines of the codei
+use this cmnd now
